@@ -1,8 +1,8 @@
-laki-laki(husin).
-laki-laki(abdul).
-laki-laki(rudi).
-laki-laki(amir).
-laki-laki(basir).
+lakilaki(husin).
+lakilaki(abdul).
+lakilaki(rudi).
+lakilaki(amir).
+lakilaki(basir).
 
 perempuan(rita).
 perempuan(tuti).
